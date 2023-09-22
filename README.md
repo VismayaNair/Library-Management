@@ -22,14 +22,23 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
-Developed by : 
-Vismaya.S , 212221230125
+Developed by : Vismaya.S 
+Register number : 212221230125
 
 #Usecase diagram :
 ![libclassa](https://github.com/VismayaNair/Library-Management/assets/93427210/29b04ac4-0b5f-451f-bb7c-03fe3e5f2280)
 
 #Class diagram :
 ![libusea](https://github.com/VismayaNair/Library-Management/assets/93427210/2ff2a554-eb72-462e-a83a-3541fac2257c)
+
+#Sequence Diagram:
+![image](https://github.com/VismayaNair/Library-Management/assets/93427210/9bf96497-aed8-46a4-a155-951557f76486)
+
+#Activity Diagram:
+![image](https://github.com/VismayaNair/Library-Management/assets/93427210/6e3f2c39-cc9c-4505-ae9c-a39632ba5254)
+
+#Communication diagram :
+![image](https://github.com/VismayaNair/Library-Management/assets/93427210/a9510d24-c9f0-4570-8bea-abdfc516a6ba)
 
 
 
